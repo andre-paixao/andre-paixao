@@ -4,14 +4,14 @@
 - 📚 Estou cursando desenvolvimento web FullStack.
 ##
 
-<div align="center" > 
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=andre-paixao&show_icons=true&theme=merko">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-paixao&layout=compact&theme=merko">
+<div align="center"> 
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=andre-paixao&show_icons=true&theme=merko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-paixao&layout=compact&theme=merko">
 </div>
 
 ##
 
-<div align="center">
+<div align="center"> <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="0" width="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="0" width="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,8 +32,8 @@
 
 <div align="center">
   <a href="https://www.youtube.com/@ideiaseinventos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a>
-  <a href="https://www.instagram.com/andre.paixao55/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
-  <a href="mailto:andre.crisopolis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
-  <a href="https://www.linkedin.com/in/andre-dev-paixao" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
+  <a href="https://www.instagram.com/andre.paixao55/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center"></a>
+  <a href="mailto:andre.crisopolis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
+  <a href="https://www.linkedin.com/in/andre-dev-paixao" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"></a> 
   
 </div>
