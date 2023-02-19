@@ -34,6 +34,6 @@
   <a href="https://www.youtube.com/@ideiaseinventos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a>
   <a href="https://www.instagram.com/andre.paixao55/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
   <a href="mailto:andre.crisopolis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
-  <a href="www.linkedin.com/in/andre-dev-paixao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
+  <a href="https://www.linkedin.com/in/andre-dev-paixao" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
   
 </div>
