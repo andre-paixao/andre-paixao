@@ -5,8 +5,8 @@
 ##
 
 <div align="center"> 
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=andre-paixao&show_icons=true&theme=merko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-paixao&layout=compact&theme=merko">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=andre-paixao&show_icons=true&theme=merko">
+  <img height="190em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-paixao&layout=compact&theme=merko">
 </div>
 
 ##
